@@ -149,12 +149,18 @@ h2 {
 }*/
 
 /* Media queries */
+/* Small devices (mobile, 320px and up) */
+@media screen and (min-width: 320px) {
+    
+    
+}
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
     /* Make all service cards the same height for consistency */
     #services .card-body {
         min-height: 191px;
     }
+  
 }
 
 /* Large devices (tablets, 992px and up) */
@@ -163,6 +169,8 @@ h2 {
     #services .card-body {
         min-height: auto;
     }
+   
+   
 }
 
 /* XL- devices (tablets, 1200px and up) */
