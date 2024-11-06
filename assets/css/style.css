@@ -96,12 +96,23 @@ h2 {
     padding: 5px;
 }
 
+
 /* Game library cards */
 
 #new-games .card,
 #fav-games .card {
     border: none;
 }
+
+#fave-game .btn {
+    display: flex;
+    margin-left: auto;
+}
+
+.reserve-button {
+    text-align: right;
+}
+    
 
 /* Footer / Contact */
 #contact {
@@ -151,8 +162,7 @@ h2 {
 /* Media queries */
 /* Small devices (mobile, 320px and up) */
 @media screen and (min-width: 320px) {
-    
-    
+ 
 }
 /* Medium devices (tablets, 768px and up) */
 @media screen and (min-width: 768px) {
