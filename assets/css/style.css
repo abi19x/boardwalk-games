@@ -148,16 +148,7 @@ h2 {
 #contact .table-dark *{
     background-color: transparent;
 }
-/* Grid visualisation */
-/*.container,
-.row {
-    border: 2px solid black;
-}
 
-.col-12 {
-    border: 2px solid white;
-    background-color: lightgray;
-}*/
 
 /* Media queries */
 /* Small devices (mobile, 320px and up) */
