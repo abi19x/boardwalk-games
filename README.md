@@ -3,4 +3,4 @@ Code Institute walkthrough project
 
 ## Wireframe designs
 Mobile, tablet and desktop features all included.
-[View pdf file] (boardwalk-games-full-wireframes.pdf)
+[View pdf file] [embed]wireframe.png[/embed]
